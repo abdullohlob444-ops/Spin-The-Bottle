@@ -1,2 +1,2 @@
 # Spin-The-Bottle
-Spin Yhe Bottle Telegram mini App
+Spin The Bottle Telegram mini App
